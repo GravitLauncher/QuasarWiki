@@ -90,7 +90,7 @@ sudo update-alternatives --config java
     <br>
     Путь к java для серверов 1.16.5 и ниже будет таким: <q-badge>/usr/lib/jvm/bellsoft-java8-full-amd64/bin/java</q-badge>
     <br>
-    Путь к java для серверов 1.17.x и ниже будет таким: <q-badge>/usr/lib/jvm/bellsoft-java16-full-amd64/bin/java</q-badge>
+    Путь к java для серверов 1.17.x будет таким: <q-badge>/usr/lib/jvm/bellsoft-java16-full-amd64/bin/java</q-badge>
 </p>
         </q-tab-panel>
         <q-tab-panel name='centos'>
