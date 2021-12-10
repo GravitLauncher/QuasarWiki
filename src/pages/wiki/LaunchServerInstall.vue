@@ -64,7 +64,7 @@
       <br>
       Для запуска майнкрафт сервера 1.17.x необходима - <b>Java 16</b>.
       <br>
-      Для запуска майнкрафт сервера 1.12.2 и ниже - <b>Java 8</b>. 
+      Для запуска майнкрафт сервера 1.16.5 и ниже - <b>Java 8</b>. 
       <br></br>
       Необходимо установить их все, если вы собираетесь держать лаунчсервер и сервера на одной машине.
     </p>
@@ -83,11 +83,15 @@
 wget -q -O - https://download.bell-sw.com/pki/GPG-KEY-bellsoft | apt-key add -
 echo "deb [arch=amd64] https://apt.bell-sw.com/ stable main" | tee /etc/apt/sources.list.d/bellsoft.list
 apt-get update
-apt-get install bellsoft-java17-full
+apt-get install bellsoft-java17-full -y
 sudo update-alternatives --config java
 ' />
 <p>
-    <b>*</b> С помощью update-alternatives выберите по умолчанию java 17. Тогда путь к java для серверов 1.12.2 и ниже будет таким: <q-badge>/usr/lib/jvm/bellsoft-java8-full-amd64/bin/java</q-badge>
+    <b>*</b> С помощью update-alternatives выберите по умолчанию java 17.
+    <br>
+    Путь к java для серверов 1.16.5 и ниже будет таким: <q-badge>/usr/lib/jvm/bellsoft-java8-full-amd64/bin/java</q-badge>
+    <br>
+    Путь к java для серверов 1.17.x и ниже будет таким: <q-badge>/usr/lib/jvm/bellsoft-java16-full-amd64/bin/java</q-badge>
 </p>
         </q-tab-panel>
         <q-tab-panel name='centos'>
