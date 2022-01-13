@@ -10,7 +10,7 @@
       <li>Любой Fabric версии с 1.13 до 1.18.1</li>
     </ul>
     <doc-header name="downloadclient">Скачивание клиента с зеркала </doc-header>
-    <p>Список клиентов для версии 5.1.12, доступных на зеркале можно посмотреть тут: <a href='https://mirror.gravit.pro/5.1.x/clients/'>клиенты</a> и <a href='https://mirror.gravit.pro/5.1.x/assets/'>ассеты</a></p>
+    <p>Список клиентов для версии 5.1.x, доступных на зеркале можно посмотреть тут: <a href='https://mirror.gravit.pro/5.1.x/clients/'>клиенты</a> и <a href='https://mirror.gravit.pro/5.1.x/assets/'>ассеты</a></p>
     <p>Список клиентов для версии 5.2.х, доступных на зеркале можно посмотреть тут: <a href='https://mirror.gravit.pro/5.2.x/clients/'>клиенты</a> и <a href='https://mirror.gravit.pro/5.2.x/assets/'>ассеты</a></p>
     <p></p>
     <p>старое зелкало тут: <a href='https://mirror.gravit.pro/clients/'>клиенты</a> и <a href='https://mirror.gravit.pro/assets/'>ассеты</a></p>
