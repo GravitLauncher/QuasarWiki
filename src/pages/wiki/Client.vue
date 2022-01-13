@@ -9,8 +9,15 @@
       <li>Любой Forge версии с 1.7.10 до 1.16.5</li>
       <li>Любой Fabric версии с 1.13 до 1.18.1</li>
     </ul>
-    <doc-header name="downloadclient">Скачивание клиента с зеркала</doc-header>
-    <p>Список клиентов, доступных на зеркале можно посмотреть тут: <a href='https://mirror.gravit.pro/clients/'>клиенты</a> и <a href='https://mirror.gravit.pro/assets/'>ассеты</a></p>
+    <doc-header name="downloadclient">Скачивание клиента с зеркала </doc-header>
+    <p>Список клиентов для версии 5.1.12, доступных на зеркале можно посмотреть тут: <a href='https://mirror.gravit.pro/5.1.x/clients/'>клиенты</a> и <a href='https://mirror.gravit.pro/5.1.x/assets/'>ассеты</a></p>
+    <p>Список клиентов для версии 5.2.х, доступных на зеркале можно посмотреть тут: <a href='https://mirror.gravit.pro/5.2.x/clients/'>клиенты</a> и <a href='https://mirror.gravit.pro/5.2.x/assets/'>ассеты</a></p>
+    <p></p>
+    <p>старое зелкало тут: <a href='https://mirror.gravit.pro/clients/'>клиенты</a> и <a href='https://mirror.gravit.pro/assets/'>ассеты</a></p>
+    <p>Примечания:</p>
+    <ul>
+      <li>На старом зелкале находятся всё версии и ассеты без фиксов log4j</li>
+    </ul>
     <p>Выполните команду <q-badge>downloadclient ВЕРСИЯ НАЗВАНИЕ</q-badge> для скачки клиента</p>
     <p>Выполните команду <q-badge>downloadasset ВЕРСИЯ НАЗВАНИЕ</q-badge> для скачки ассетов</p>
     <p>Примечания:</p>
